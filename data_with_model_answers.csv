@@ -1,0 +1,290 @@
+,claim,label,answer,domain,gold_label,model_answer,is_right
+14091,Is the school shooting rate in non-Christian Japan significantly lower than that of mostly Christian Texas?,Factual,Yes,Domain-Specific,," Yes, it is. According",True
+14199,Are stay-at-home orders actually the law of these states?,Factual,Yes,Domain-Specific,, The answer is no. Stay,False
+13699,Are California lawmakers planning to push free abortion pills on all students across the state as part of a 'super progressive' new policy?,Non-Factual,No,Real-World,," The answer is yes, according",False
+11653,Does NASA confirm that the earth will go dark for 6 days in December 2020?,Non-Factual,No,Real-World,," No, NASA does not confirm",True
+5644,"Does Hakusan Club have the most number of championships in the Japanese Roller Hockey National Championship with eleven and did the Tokyo Club, Yomiuri Land, and Oriental Classic each only have one championship?",Factual,Yes,Structural,, Hakusan Club has the most,False
+18585,Is it true that Vampire Academy was expected to earn $3.8 million in the U.S. on its opening weekend?,Factual,Yes,Temporal,," If so, how did it",False
+6799,"Was Andrea Petkovic seeded first in the 2011 Generali Ladies Linz despite being ranked 5th? Was Sabine Lisicki seeded fifth even though she was ranked 17th? Was Flavia Pennetta, a former Doubles world No. 1 and Top 10 in singles, seeded number 9 even though she was ranked 26th at the time?",Non-Factual,No,Structural,," The answer is yes, they",False
+17951,Have more than 825 coronavirus deaths been reported in Germany?,Factual,Yes,Temporal,, The answer is no. According,False
+14191,"Does Ted Cruz say that both Donald Trump and Hillary Clinton believe Planned Parenthood is ""terrific"" and should continue to receive taxpayer funding?",Non-Factual,No,Domain-Specific,, (Source: Cruz's ,False
+14150,Is aspirin linked to lower pancreatic cancer risk?,Non-Factual,No,Domain-Specific,,"**
+Aspirin, a",False
+7189,Have the FOP Friends ever won any awards from 2017 to 2019 despite being nominated?,Non-Factual,No,Structural,," No, they have not.",True
+11674,"Did three companies receive 90 percent of the $35 million from six Rhode Island tax-credit programs, including CVS and two companies located outside of Rhode Island?",Factual,Yes,Real-World,," (Yes/No)
+Answer",True
+12252,Are members of Congress required to purchase their health insurance from the new exchanges under Obamacare?,Factual,Yes,Real-World,," No, they are not.",False
+5532,"Did Madeline Marrable, who was married to the well-known engineer Frederick Marrable, die on 26 April 1916 at 30 Porchester Square, Hyde Park, London?",Non-Factual,No,Structural,, The death certificate gives her age,False
+3286,Can fraud be used for monetary gain through deception?,Factual,Yes,Multifaceted,," Yes, fraud can be used",True
+7852,Does mole sauce provide more than 41 grams of fat and protein?,Non-Factual,No,Structural,, A) 41-50,False
+7928,Was Hester selected by the Tigers to be a team captain in 2006 and was he the starting tailback for the Tigers?,Non-Factual,No,Structural,, A) Yes B) No,True
+9935,Was Puyi chosen to be an emperor by Empress Dowager Cixi at the age of one?,Non-Factual,No,Adversarial,, A) True B) False,False
+19653,Is The Wonder Years a comedy-drama?,Non-Factual,No,Temporal,, The Wonder Years is a coming,False
+18021,Does Morocco have more than 340 COVID-19 cases?,Factual,Yes,Temporal,, The answer is no. Morocco,False
+9076,Does Songs of Innocence contain only one poem?,Non-Factual,No,Adversarial,," No, it contains 14",True
+6197,Was Chick Hearn the only play-by-play announcer for the Los Angeles Lakers in the 1980s and the 1990s?,Non-Factual,No,Structural,," No, he was not the",True
+9143,"Do some admirers consider it not a love story, but an exploration of evil and abuse?",Factual,Yes,Adversarial,," Yes, that's true.",True
+13413,"Does the oil and natural gas industry provide or support 141,600 jobs in Georgia?",Factual,Yes,Real-World,, (Source: American Petroleum Institute,False
+11037,Has there been the lowest discretionary spending in decades in the United States under President Barack Obama?,Non-Factual,No,Real-World,," Yes, according to the Bureau",False
+15678,Can the US health care system save up to $5 billion if 7% of patients waiting for kidney transplants participate in the optimized national kidney paired donation program?,Non-Factual,No,Domain-Specific,, A cost-effectiveness analysis.,False
+7850,"Is the Frisco League a high school athletic conference in Mid-Missouri and do four out of the nine schools come from Pulaski county, including Crocker High School, Dixon High School, Laquey High School, and Richland High School?",Factual,Yes,Structural,," If so, then the answer",False
+8546,Was Anne Rice born in Japan?,Non-Factual,No,Adversarial,Non-Factual," No, she was born in",True
+6758,"Was Göteborg Berserkers (The Berserkers) founded in 2003 in Gothenburg, Sweden with the colors yellow and blue?",Non-Factual,No,Structural,, The team has been active in,False
+7898,"Was the Paducah Gaseous Diffusion Plant opened in 1952 and did it have a capacity of 11.3 million separative work units per year (SWU/year) in 1984, and did it produce low-enriched uranium which was further refined at Portsmouth and Oak Ridge, Tennessee?",Factual,Yes,Structural,," (Source: ""The Pad",False
+8620,Did Mel B release a song on Virgin Records in 2007?,Factual,Yes,Adversarial,Factual," No, Mel B did not",False
+8735,"Was Asylum Records, the American record label, founded by David Geffen and his partner Elliot Roberts in 1991?",Factual,Yes,Adversarial,Factual, Asylum Records was a subsidiary,False
+4054,Is Vedic Sanskrit the language used in the Vedas?,Factual,Yes,Multifaceted,,](https://www.quora,False
+8067,"Did Evin Crowley play Emily in ""Upstairs, Downstairs"" for seven episodes, all in 2011?",Non-Factual,No,Structural,," No, he did not.",True
+13789,Does the artificial pancreas continue to show promise?,Non-Factual,No,Domain-Specific,," Yes, it does. In",False
+16178,Does hyperfibrinogenemia decrease rates of femoropopliteal bypass thrombosis?,Non-Factual,No,Domain-Specific,, A systematic review and meta-analysis,False
+4968,Did The Oregon Garden ever net a profit despite opening in 2001?,Non-Factual,No,Structural,," No, it did not.",True
+14217,Does Novartis's new treatment for hives outperform Xolair in trials?,Factual,Yes,Domain-Specific,, How does it compare to other,False
+10065,"Was Diana, Princess of Wales the first wife of Charles, the heir apparent to the British throne, and the mother of Prince William and Prince Harry, although she moved to London in 1968, where she lived with flatmates and took on various low-paying jobs?",Non-Factual,No,Adversarial,," A) No, she was",True
+1911,Was Jefferson Davis born in Texas?,Non-Factual,No,Multifaceted,," No, he was born in",True
+12518,Do all University of Texas student-athletes get an iPad?,Non-Factual,No,Real-World,," Yes, all University of Texas",False
+12778,Has Trump been reinstated?,Non-Factual,No,Real-World,," No, he has not been",True
+16851,"Did Sivan have only two other Top 40 singles before ""1999"" reached number 13 on the UK Singles Chart?",Factual,Yes,Temporal,," Yes
+Did Sivan have",True
+6656,"Is Justin Charles Garrett Leonard an American professional golfer with 13 wins who was born on June 15th, 1972?",Non-Factual,No,Structural,," No, that's not correct",True
+16047,Do thigh-length graduated compression stockings (GCS) reduce deep vein thrombosis in patients admitted to hospital who are immobile because of acute stroke?,Non-Factual,No,Domain-Specific,," A randomised controlled trial.
+",False
+18812,Is the purpose of UNESCO's City of Literature program to promote technological development in both developed and developing cities?,Non-Factual,No,Temporal,,"**
+No, the purpose of",True
+7164,Did Joseph Else have a studio in Beeston and attempt to become an associate member of the Royal Society of British Sculptors in 1923?,Factual,Yes,Structural,," (Source: The Times,",False
+10821,"Did help finally come only after the loss of lives during the 2020 violence in Kenosha following the police shooting of Jacob Blake, according to Gov. Tony Evers?",Non-Factual,No,Real-World,, Or was it a long time,False
+2470,Did Maria Theresa rule for 40 years?,Factual,Yes,Multifaceted,,"**
+No, Maria Theresa ruled",False
+9831,Did Puyi demand a divorce from Wenxiu in 1927?,Non-Factual,No,Adversarial,," Why did he do so?
+",False
+5241,Did Nikolai Tretyakov go from being a captain in 1878 to colonel in 1899?,Factual,Yes,Structural,," No, he was a captain",False
+14025,Is there a cancer risk associated with J&J foot gel according to the FDA?,Factual,Yes,Domain-Specific,,"**
+The FDA has not issued",False
+18303,Was a lawsuit filed at a U.S federal court in Missouri over coronavirus against the Chinese government?,Factual,Yes,Temporal,," No, there is no such",False
+2520,Is the English Wikipedia an edition of a free online almanac?,Non-Factual,No,Multifaceted,," No, it is not.",True
+9817,"Is the original title of ""The Girl with the Dragon Tattoo"" in Swedish ""Men Who Hate Women""?",Factual,Yes,Adversarial,," No, the original title is",False
+9026,Was Pink Floyd an influential rock group named after the members of the band who were students at the time?,Non-Factual,No,Adversarial,," A) No, they were",True
+11438,Did Bernie Sanders pass more roll call amendments than any other member in a Republican Congress?,Factual,Yes,Real-World,," Yes, he did. In",True
+4512,"Was Shalom Levin an Israeli teacher and politician who served as a member of the Knesset for the Alignment from 1969 to 1977 and as general secretary of the Israel Teachers Union from 1955 to 1980, and was he from Rakaw, Germany?",Non-Factual,No,Structural,," No, he was not.",True
+7700,"Has the Vijay Award for Contribution to Tamil Cinema been awarded to anyone in the Tamil film industry since 2006, including Sivakumar, AVM Saravanan, and Balu Mahendra?",Factual,Yes,Structural,," If so, who were the",False
+12181,Will Donald Trump terminate Social Security if he is re-elected?,Non-Factual,No,Real-World,," The answer is no, and",True
+14914,Does the stimulus bill include $20 million for the removal of small to medium-sized fish passage barriers and $25 million to rehabilitate off-roading trails for ATVs?,Factual,Yes,Domain-Specific,," No, it does not.",False
+7624,Was 4962 Vecherka discovered by T. Smirnova on 1 October 1973?,Factual,Yes,Structural,," [1]
+Asteroid",False
+19402,Is The Beguiled a film from 1971?,Non-Factual,No,Temporal,, I think I've seen it,False
+7577,"Did Donna Haliday and Danielle Barry, a female badminton player from New Zealand who plays for the Te Atatu Badminton Club, win against Deyanira Angulo and Louise McKenzie in the 2009 Nouméa International?",Factual,Yes,Structural,, A) Yes B) No,True
+15575,Does RTEL1 interact with TRF2 through a C4C4 motif?,Factual,Yes,Domain-Specific,,"**
+RTEL1 has been",False
+7970,"Does Suning County form part of Hebei province of China and recorded less than 330,000 population in 2004?",Non-Factual,No,Structural,, A) True B) False,False
+15863,"Does Deltex interact with eIF3f, a DUB required for Notch activation process?",Factual,Yes,Domain-Specific,,"**
+Deltex (DT",False
+12994,"Does Romney's tax plan involve taking away middle-class deductions for child care, mortgages, and college tuition?",Non-Factual,No,Real-World,," Yes, it does. Romney",False
+17756,Are Ralph and Vanellope forced to return the stolen car after failing to escape from Shank in Ralph Breaks the Internet?,Factual,Yes,Temporal,, Or did they manage to keep,False
+13371,"Are assault weapons and handguns allowed in the state Capitol while bullhorns, trumpets, helium balloons, and flags on poles are banned?",Factual,Yes,Real-World,, Why are there no signs or,False
+15937,Do metastases have genomic aberrations different from those of the primary tumor?,Factual,Yes,Domain-Specific,,"**
+Metastases can have",False
+4037,Did Sabbir Khan direct a film featuring an Indian actress?,Factual,Yes,Multifaceted,," Yes, Sabbir Khan directed",True
+17536,"Did the Curaçao national football team play against Antigua and Barbuda on March 23, 2019?",Factual,Yes,Temporal,," No, they did not.",False
+5230,"Did Elmer Mitchell (who was the team goalkeeper in 2012) graduate from Manchester and play for Manchester United, and was he hired as a technical assistant at Manchester High School?",Non-Factual,No,Structural,," Elmer Mitchell, a Manchester",False
+16711,Did Focus (film) receive a rating above 57% and more than 120 reviews?,Factual,Yes,Temporal,, 1. The film received,False
+8637,Is Ripon College located in Wisconsin?,Non-Factual,No,Adversarial,Non-Factual, Ripon College is located in,False
+19007,"Did Jamie Lee Curtis have a leading role in John Carpenter's film ""Apollo 13""?",Non-Factual,No,Temporal,," No, Jamie Lee Curtis did",True
+18296,Has Germany registered less than 903 positive coronavirus cases?,Factual,Yes,Temporal,, The answer is yes. Germany,True
+9266,Was the novel based on a real baseball player?,Factual,Yes,Adversarial,," Yes, the novel was based",True
+5682,Is the trifurcula headleyella from the Animalia kingdom and part of the Insecta family?,Non-Factual,No,Structural,," No, it is not.",True
+19469,"Is ""The SpongeBob SquarePants Movie"" a film directed by Stephen Hillenburg?",Non-Factual,No,Temporal,," No, it is not.",True
+19006,Is Richard Frank Curtis Jamie Lee Curtis' father?,Non-Factual,No,Temporal,, Richard Franklin Curtis is an American,False
+2817,Is innovation often viewed as the application of better solutions that meet unarticulated needs?,Non-Factual,No,Multifaceted,," (p. 3)
+",False
+15652,Does taking 400mg of α-tocopheryl acetate in combination with vitamin C reduce the risk of prostate cancer?,Non-Factual,No,Domain-Specific,, A systematic review and meta-analysis,False
+2822,Is Hair a musical?,Factual,Yes,Multifaceted,," Yes, Hair is a rock",True
+13798,Do the photographs show a boy having his arm crushed under a truck as a punishment for stealing bread?,Non-Factual,No,Domain-Specific,," No, they do not.",True
+4837,"Was Peter Thorneycroft born in Dunston, Staffordshire and did he never have formal education?",Non-Factual,No,Structural,, I have found a Peter Th,False
+6143,"Does Lianyun District in Lianyungang, Jiangsu Province, China have a population of 250,000 in 2014?",Factual,Yes,Structural,,](https://www.zhi,False
+6067,"Did George Kadish document life in the Kovno Ghetto during the period of the Nazi German genocide against Jews, and construct cameras by which he could photograph through the buttonhole of his coat or over a window sill, and was he able to photograph sensitive scenes that would attract the ire of Nazis or collaborators, such as scenes of people gathered for forced labor, burning of the ghetto, and deportations?",Factual,Yes,Structural,," Yes, George Kadish did",True
+19130,"Was the song ""Move"" released on the radio in October 2014?",Non-Factual,No,Temporal,," No, it was released in",True
+3782,Does the Silver Surfer appear only in Icelandic comic books?,Non-Factual,No,Multifaceted,," No, he does not.",True
+12168,Is it true that Katie Porter is part of a radical group of Democrats with an extreme agenda to abolish ICE?,Non-Factual,No,Real-World,," No, it is not true",True
+6215,Is Gulberwick located in France with a dialing code of 51595?,Non-Factual,No,Structural,," No, it is not.",True
+6038,Has cellular agriculture received an investment worth above a million dollars since its inception?,Non-Factual,No,Structural,," Yes, it has received significant",False
+11763,Does Jason Kander support Obama's plan to bring the remaining suspected terrorists to U.S. soil?,Non-Factual,No,Real-World,," No
+Do you support the",True
+13806,Does Trump promise to take 'major' measures to assist the U.S. economy amidst the increase in coronavirus cases?,Factual,Yes,Domain-Specific,," (Source: CNN)
+What",False
+1816,Did The X-Files refuse to cast David Duchovny?,Non-Factual,No,Multifaceted,," No, that's not what",True
+16357,Is varenicline monotherapy more effective than combination nicotine replacement therapies with varenicline or bupropion after 12 weeks of treatment?,Non-Factual,No,Domain-Specific,, A systematic review and meta-analysis,False
+1202,Was Half Girlfriend partially filmed in Delhi?,Factual,Yes,Multifaceted,," The film's director, Moh",False
+19254,Is Resident Evil a film?,Non-Factual,No,Temporal,," Yes, it is. The",False
+19304,Is See.SZA.Run an extended play (EP)?,Non-Factual,No,Temporal,,"SZA's debut EP,",False
+10148,Do the members of B'z come from South Korea even though they started in Japan?,Non-Factual,No,Adversarial,," I'm confused.
+B'",False
+17137,Were two pregnant women burned to death in the Ludlow Massacre?,Factual,Yes,Temporal,,"**
+Yes, two pregnant women",True
+11595,Does Obamacare represent the largest tax increase in the history of the world?,Non-Factual,No,Real-World,," No, it does not.",True
+4593,"Was Scomadi bought by a British owner in 2019, which changed its management structure, and is it now a private limited company with limited liability?",Factual,Yes,Structural,," If so, what is the",False
+4174,Did Shomu Mukherjee die at the age of 64?,Factual,Yes,Multifaceted,," No, he is still alive",False
+1330,Did The Office (US) debut only on ABC?,Non-Factual,No,Multifaceted,," No, it premiered on NBC",True
+2592,Was Tennessee a member of the Union during the Civil War?,Non-Factual,No,Multifaceted,," Tennessee was a border state,",False
+12259,Would you have to go to court to fire an employee under the bill before the legislature?,Non-Factual,No,Real-World,," No, you wouldn't have",True
+15933,Does MUC1-C inhibit the NF-κB p65 signaling pathway by interacting with IκB kinase ß?,Non-Factual,No,Domain-Specific,, (A) Schematic representation,False
+10926,Did we start winning a lot of cases in the World Trade Organization after someone came along and made them aware that they were not on very solid ground?,Non-Factual,No,Real-World,, I think we did. And,False
+12079,Does the deal to raise the nation's debt ceiling directly link a debt ceiling increase to spending cuts for the first time ever?,Non-Factual,No,Real-World,," No, it does not.",True
+11131,Did U.S. Health and Human Services Secretary Tom Price say that it's better for the budget if cancer patients die more quickly?,Non-Factual,No,Real-World,," No, he didn't say",True
+6992,Is Manituana a 396 page novel written by Wu Ming that was published in 2009?,Non-Factual,No,Structural,, The answer is no. Man,True
+4291,Is Ghost a Canadian film?,Non-Factual,No,Multifaceted,," Yes, Ghost is a Canadian",False
+5431,Did Ross Callachan play for Kirkcaldy's Raith Rovers for eight seasons and only play for St. Johnstone of Perth for four?,Non-Factual,No,Structural,," No, he played for Ra",True
+17289,"Does Shivnarine Chanderpaul, who comes from the West Indies cricket team and has been inducted into the ICC Hall of Fame, rank among the best cricketers in the world?",Factual,Yes,Temporal,, Shivnarine Chanderp,False
+11169,Did they finance the largest parking expansion program without a rate increase?,Non-Factual,No,Real-World,," Yes, they did.
+Did",False
+1406,Is Therasia based on the volcanic island group of Santorini?,Factual,Yes,Multifaceted,, The answer is no. While,False
+12715,"Is inequality in Texas getting worse with very few rich people, a great many poor people, and fewer and fewer in the middle?",Factual,Yes,Real-World,, Is the gap between the rich,False
+10873,Does Sen. Elizabeth Warren live in a $5.4 million mansion?,Non-Factual,No,Real-World,," No, she doesn't.",True
+14196,Does the study say that drugs can make stents deadly?,Non-Factual,No,Domain-Specific,," No, it does not.",True
+11865,Did Mark Warner vote for nearly $1 trillion in new taxes and $7 trillion in new debt?,Factual,Yes,Real-World,," Yes, he did. And",True
+7355,"Does Compsocidae have two current species in two genera, one of which is Compsocus elegans found in Mexico and Central America and the other is Electrentomopsis variegata found in Mexico, and do the antennae of each species have thirteen or 14 segments?",Factual,Yes,Structural,," (Source: ""Comps",False
+4733,Does Maryland Route 619 meet major highway Maryland Route 404?,Factual,Yes,Structural,, Maryland Route 619 meets Maryland,False
+11063,"Did Postmaster General Louis DeJoy give $400,000 to Republicans this year and does he have between $30 and $75 million in assets of direct competitors to the United States Postal Service?",Factual,Yes,Real-World,, (Source: The New York,False
+13031,Does a photo show armed soldiers protecting Joe Biden's inauguration?,Non-Factual,No,Real-World,," No, it does not.",True
+18443,Did Baby Boomer's cultural manifestation take place in the 1960s?,Factual,Yes,Temporal,," Yes, it did. The",True
+14139,"Did Chris Christie veto Planned Parenthood funding five times over the course of his governorship, according to Hilary Rosen?",Factual,Yes,Domain-Specific,," Yes, he did. Rosen",True
+11016,Has Texas cut funding for public schools by 25% under Rick Perry's plan?,Factual,Yes,Real-World,," (No, that's not",False
+17187,Was Resident Evil 5 released for PlayStation 4 before July 2016?,Factual,Yes,Temporal,," No, it was not.",False
+5375,Are the mean daily daylight hours in Istanbul 12.0 in March and is the average sea temperature 50.4 Fahrenheit?,Non-Factual,No,Structural,," If so, then the answer",False
+12591,Does McCain support tax breaks for companies that ship jobs overseas?,Non-Factual,No,Real-World,," Yes, he does. In",False
+5838,"Do the TX4's earlier models have two headrests fitted to the central partition for the rear-facing tip-up seats or were they removed due to EU safety regulations, resulting in having an internal headrest?",Factual,Yes,Structural,, I've seen some older TX,False
+14051,Is NH applying for a Medicaid waiver on mental health treatment?,Factual,Yes,Domain-Specific,," Yes No
+Is NH applying",True
+17544,"Does Deloitte have more than 300,000 professional employees around the world?",Factual,Yes,Temporal,,"**
+A) Yes
+B",True
+7918,"Did Laurie Hislam plan the Grosvenor Square demonstration for the breakaway from the main CND march, given that she was born in 1909?",Factual,Yes,Structural,, Laurie Hislam was a British,False
+15771,Is varenicline monotherapy more effective than combination nicotine replacement therapies with varenicline or bupropion after 26 weeks of treatment?,Non-Factual,No,Domain-Specific,," A randomized, double-blind,",False
+16393,Does Ethan steal the tickets to The Nutcracker Ball from a coat pocket?,Factual,Yes,Temporal,," No, he does not.",False
+4935,Did The Houston Chronicle write that Jeffry Denman was a song-and-dance man want-to-be who had no talent when he co-starred in Ken Ludwig's musical The Gershwins' An American in Paris?,Non-Factual,No,Structural,," No, they did not.",True
+13183,Did Wisconsin under Gov. Scott Walker project a $1 billion surplus that turned out to be a deficit of $2.2 billion?,Non-Factual,No,Real-World,," Yes, that happened. And",False
+9138,Does the story of Hannah and Her Sisters depict a complicated relationship with her husband?,Factual,Yes,Adversarial,, How does this relate to the,False
+5772,"Do some roles in Der Vampyr not require singing, while the other roles are tenor, which is a male voice type?",Non-Factual,No,Structural,, I'm asking because I'm,False
+15782,Are women more susceptible to death due to pneumonia than men?,Factual,Yes,Domain-Specific,,"**
+Yes, women are more",True
+9669,Did J. A. Bayona consult with Steven Spielberg on many scenes for Jurassic World: Fallen Kingdom?,Factual,Yes,Adversarial,, Bayona has stated that he,False
+9538,Did Cristiano Ronaldo lose the record he held for accounts paying attention to his posts on various platforms in 2020 when his standing among online fans dropped?,Non-Factual,No,Adversarial,, A) Yes B) No,True
+15643,Does systemic immunosuppressive (IS) therapy increase the chance of cancer mortality in patients with inflammatory eye disease (IED)?,Non-Factual,No,Domain-Specific,,"**
+**Answer:** No,",True
+3348,Was The Fame released in 2018?,Non-Factual,No,Multifaceted,," No, it was released in",True
+12969,"Is it true that Trump said, ""We're bringing back the draft,"" when discussing revamping the military?",Non-Factual,No,Real-World,," No, that's not accurate",True
+12358,Is it true that Fox News and Candace Owens tweeted that new studies show that 68% of those who used ivermectin to treat or prevent COVID are suffering from long-term bowel and urinary incontinence?,Non-Factual,No,Real-World,," No, it's not true",True
+2006,Did Doug Petrie play a character in Dr. Horrible's Sing-Along Blog?,Factual,Yes,Multifaceted,," Yes, he played the role",True
+16902,"Do Brazilians refer to the city as Belém do Pará to differentiate it from Bethlehem, the Palestinian City?",Factual,Yes,Temporal,," The name ""Belém""",False
+14237,"Have health officials seen a surge in the number of people using ""bug spray"" to get high?",Non-Factual,No,Domain-Specific,," Yes, according to a recent",False
+10935,Was it an unintended consequence of a 2008 San Francisco policy that she supported to hand over arrested undocumented youth to ICE?,Non-Factual,No,Real-World,, Or was it a deliberate attempt,False
+17194,Was Air Canada Centre in Rogers Centre renamed Scotiabank Arena after 2017?,Factual,Yes,Temporal,," No, it was not renamed",False
+14728,Does Trump pitch a drug not approved for coronavirus?,Factual,Yes,Domain-Specific,," | CNN
+President Donald Trump",False
+16427,"Did Paul, the character from the film Paul Blart: Mall Cop, faint when he was almost done with his training?",Factual,Yes,Temporal,," Yes, he did. Paul",True
+10359,"Did Nancy Pelosi, Adam Schiff, and the other Democrats promise to impeach you even before you took office, as stated?",Non-Factual,No,Real-World,," No, they did not.",True
+1335,Has Vatican City been established yet?,Non-Factual,No,Multifaceted,, Vatican City is an independent city,False
+19384,Is Ted Cruz a writer?,Non-Factual,No,Temporal,," Ted Cruz is a politician,",False
+14299,"Has the Village of Deerfield, Illinois approved an ordinance banning the possession of assault weapons and high-capacity magazines?",Factual,Yes,Domain-Specific,," No, the Village of Deer",False
+11530,"Was voter turnout in 2016 reduced by approximately 200,000 votes due to Wisconsin's photo ID laws?",Non-Factual,No,Real-World,, (Source: Brennan Center for,False
+8241,Did the Soviet Union rank first in cycling at the 1980 Summer Olympics and win a total of 80 medals in the Summer Olympics?,Non-Factual,No,Structural,," A) No, the Soviet",True
+11997,Is U.S. Rep. Michael McCaul the sixth-richest person in Congress?,Factual,Yes,Real-World,, According to a recent report by,False
+17087,Was Jadon Sancho born to parents from Trinidad and Tobago?,Factual,Yes,Temporal,, Jadon Sancho was born,False
+10288,"Did the Illinois Department of Employment Security receive 10 to 20 times more claims than expected during the COVID-19 pandemic, even during a recession?",Factual,Yes,Real-World,," Yes.
+Did the Illinois Department",True
+12847,Do rabid animals from other states carry different strains of rabies that Florida vaccines and serums don't affect?,Non-Factual,No,Real-World,," Yes, it is possible.",False
+4346,Did Dulquer Salmaan act in a film?,Factual,Yes,Multifaceted,," No, he did not act",False
+8225,"Did Teephlow win twelve awards in six events, one of which was for the Vodafone Ghana Music Awards established in 2020?",Non-Factual,No,Structural,," No, he did not.",True
+14053,"Did Ady Barkan ask Joe Biden, ""Do we agree that we can redirect some of the funding for police?""",Non-Factual,No,Domain-Specific,," and Joe Biden responded, """,False
+15824,Does aspirin encourage the production of PGE2?,Non-Factual,No,Domain-Specific,,"**
+A. By inhibiting",False
+2540,Does Donald Duck typically wear a baseball cap?,Non-Factual,No,Multifaceted,," No, he doesn't.",True
+19595,Was Yugoslavia a country?,Non-Factual,No,Temporal,," Yes, Yugoslavia was a country",False
+13158,"Did Gov. Parson's administration purge 100,000 kids from Medicaid rolls?",Factual,Yes,Real-World,," | The Kansas City Star
+",False
+17897,Has the state of Assam confirmed any positive cases of Covid-19 including deaths as of 14 April 2020?,Factual,Yes,Temporal,," If yes, please provide the",True
+18851,Is Donna Noble the Doctor's companion?,Non-Factual,No,Temporal,," No, she's not.",True
+5901,"Is Flo Gennaro an Argentine fashion model who was born in 1991 in Norway, six feet tall, with light brown hair and brown eyes?",Non-Factual,No,Structural,," No, she is not.",True
+1778,Did Maria Theresa's father die in 1740?,Factual,Yes,Multifaceted,," Yes, he did. Maria",True
+7605,Did Derrick Johnson make a career-high 30 tackles and four forced fumbles in a single game during his time as an American football linebacker?,Factual,Yes,Structural,," No, Derrick Johnson did not",False
+5123,"Did the Mongolian Empire chip away at the Kalmyk Khanate's autonomy between 1724-1771, which encouraged Russian and German settlements where the Kalmyks used to roam and feed their livestock?",Factual,Yes,Structural,, Or did the Kalmyk,False
+13949,Is there a tuberculosis infection found at University of Mississippi?,Factual,Yes,Domain-Specific,, The answer is yes. According,True
+1960,Is the Brat Pack an award given to a group of young actors?,Non-Factual,No,Multifaceted,," No, the Brat Pack",True
+18954,Did Heracles kill Hebe?,Non-Factual,No,Temporal,," No, he did not.",True
+12741,"Does Rep. Jim Renacci's plan to slash $1.7 billion from Social Security have the potential to cause the agency to shut down for a month, resulting in delayed benefits for seniors and a backlog of processing claims for new retirees and disabled workers?",Non-Factual,No,Real-World,," (Source: The Hill)
+",False
+16461,Does Boulder have a humid subtropical climate?,Factual,Yes,Temporal,," Yes, Boulder, Colorado has",True
+14816,"Did Bernie Sanders vote for regime change with respect to Libya, according to Hillary Clinton?",Factual,Yes,Domain-Specific,," Yes, he did. In",True
+9285,Did Shakira start composing when she was a teenager?,Non-Factual,No,Adversarial,, Shakira has been writing songs,False
+16386,"Did Sony's Columbia Pictures distribute the film, and were both Good Universe and Point Grey Pictures responsible for producing it?",Factual,Yes,Temporal,," Yes, that's correct.",True
+8653,Does Mary of Teck's son marry an American socialite?,Non-Factual,No,Adversarial,Non-Factual," No, that's not correct",True
+3491,Is Watchmen a film about a group of mostly retired American superheroes?,Factual,Yes,Multifaceted,," The answer is yes, and",True
+16572,Was Street Kings reviewed by more than 151 critics on Rotten Tomatoes?,Factual,Yes,Temporal,," Yes
+Is Street Kings (",True
+18149,"Does Uttar Pradesh have more than 2,200 confirmed coronavirus cases after April 29, 2020?",Factual,Yes,Temporal,, Uttar Pradesh has more than ,False
+7554,"Did the Beechcraft Model 50 Twin Bonanza, a utility aircraft manufactured by Beech Aircraft Corporation, have its last flight on November 15, 1949?",Non-Factual,No,Structural,," No, the Beechcraft",True
+5820,"Was the following information derived from an example of the Modified Accelerated Cost Recovery System (MACRS) where business office furniture was bought for $10,000 to be used only for the business (7-year property), and it was placed into service on 10-13-13? Is it a part of the way to figure the answer to use the GDS, put the property class as 7-year, date placed in service as 10-13-13 with a recovery period of 7 years, a method and convention of 200%/DB/Half-year and to use the depreciation rate from tables of 1429?",Factual,Yes,Structural,," If so, how would you",False
+13773,Are lawmakers considering spending and saving the $128.5 million surplus?,Factual,Yes,Domain-Specific,, Or are they planning to use,False
+2541,Is fraud accidental deception?,Non-Factual,No,Multifaceted,, In: _Philosophical,False
+8146,"Did Slinkee Minx release the EP Summer Rain in 2004, which is a cover of a Belinda Carlisle song?",Factual,Yes,Structural,," No, Belinda Carlisle",False
+16723,Is Mary in the final scene of the But I'm a Cheerleader film?,Factual,Yes,Temporal,," No, she is not.",False
+7195,Was Mal Brough the Minister for Families and Community Services and Indigenous Affairs and also a chief architect?,Factual,Yes,Structural,, The answer is no. The,False
+1561,Was Charles de Gaulle an enemy of the French Resistance?,Non-Factual,No,Multifaceted,," No, he was a leader",True
+5952,Is Vinnius classified under the Plantae family under the phylum Araneae?,Non-Factual,No,Structural,," No, Vinnius is",True
+12368,"Did the Democrats spend more than President Bush spent in seven years on the war in Iraq, the war in Afghanistan, and Hurricane Katrina combined, in just one month?",Non-Factual,No,Real-World,," Yes, they did. The",False
+16440,Is PCOO the acronym for the Presidential Communications Group of the Philippines?,Factual,Yes,Temporal,," No, it's not.",False
+17547,Did Dési Bouterse's military dictatorship impose a restriction on the freedom of assembly?,Factual,Yes,Temporal,, A) Yes B) No,True
+3706,Did Psych (season 2) originally air on the TNT Network?,Non-Factual,No,Multifaceted,," No, it originally aired on",True
+5440,Did Julian Gressel only achieve less than ten goals in his entire career of more than 200 games from 2012 - 2019?,Non-Factual,No,Structural,," Yes, that's correct.",False
+5777,Does Sepia irvingi live at a depth of between 130 and 170 m and grow to a mantle length of 100 mm?,Factual,Yes,Structural,, (Source: World Register of,False
+18102,Did Taylor Wimpey reopen sites in May and did Barratt and Taylor Wimpey shut all sites on 24 March 2020 due to coronavirus?,Factual,Yes,Temporal,,](https://www.barr,False
+8643,Is Easy A written by Bert V. Royal?,Non-Factual,No,Adversarial,Non-Factual," Yes, it is. The",False
+3869,Was Celebrity Rehab with Dr. Drew a scripted TV drama?,Non-Factual,No,Multifaceted,," The show, which aired on",False
+17053,Does the music video for Heathens have over 855 million views?,Factual,Yes,Temporal,," No, it has over ",False
+5744,Did Sinaida Rosenthal obtain her habilitation at Humboldt University for her dissertation on the Mechanism of Ribosome breakdown in Rabbit Reticulocytes before becoming a professor of Physiology and Biology?,Factual,Yes,Structural,, (Source: Sinaida,False
+11683,"Was West Virginia's median household income in 2017 $16,867 below the national average, ranking 50th?",Factual,Yes,Real-World,, (Source: U.S.,False
+14856,Did the teacher save a caged puppy from drowning in an Illinois lake?,Factual,Yes,Domain-Specific,," No, that's not what",False
+7431,"Did Gore win the 1st district represented by Roger Wicker (born July 5, 1951) in the 2000 United States presidential election in Mississippi?",Non-Factual,No,Structural,," No, Gore did not win",True
+11069,Does the photograph show Barack Obama bowing to Ayatollah Khamenei?,Non-Factual,No,Real-World,," No, it does not.",True
+3206,Can Google Search find sports scores?,Non-Factual,No,Multifaceted,," Yes, Google Search can find",False
+7166,"Does the Kalyana Varadharaja Perumal Temple have an idol of Sudarshana Chakra in a rare Prayoga state, believed to have been used by the lord against Durvasa?",Factual,Yes,Structural,," Yes
+Is the Kaly",True
+10550,Does Donald Trump want to keep big government in charge of federally-owned land?,Factual,Yes,Real-World,, The answer is a resounding,False
+11451,Is the standard of voting in North Dakota the easiest in the country?,Non-Factual,No,Real-World,," No, it's not.",True
+15574,Is the RANK-RANKL pathway signalling linked to the development of Aire-expressing medullary thymic epithelial cells?,Factual,Yes,Domain-Specific,,"**
+The RANK-RANK",False
+15624,Does engagement of Smc5/6 halt the activation of Mms21 SUMO E3 ligase through ATP-dependent remolding?,Non-Factual,No,Domain-Specific,,"**
+The Smc5/",False
+19550,Is Vedic Sanskrit the language of the Vedic texts of Buddhism?,Non-Factual,No,Temporal,, The answer is no. The,True
+4533,"Did Lars Hjorth play for Bærum SK briefly in 1996 and was he on the roster of sixth-tier club Lommedalens IL in 1999, and did Lyn languish in the third tier upon his return, with Hjorth only playing twelve games?",Non-Factual,No,Structural,," |
+|  |  |",False
+19607,Does the term Aristocracy have Greek etymology?,Non-Factual,No,Temporal,," Yes, it does. The",False
+12374,"Was more than 10,000 jobs created since last year's address, with many on the high end of the employment scale?",Factual,Yes,Real-World,," Yes
+Was the unemployment rate",True
+12567,Have we ever gone a year in Virginia without passing a budget?,Non-Factual,No,Real-World,," I don't think so,""",False
+9441,Is American baseball player Bobby Doerr retired?,Factual,Yes,Adversarial,, Bobby Doerr is a former,False
+6398,"Are Epipsestis castaneata's forewings fawn coloured and does it have an extremely narrow median fascia, which are part of adult outgrowths of the insect exoskeleton?",Factual,Yes,Structural,, Epipsestis castane,False
+4862,Was the 1953 Bowling Green Falcons football team scheduled to play against their opponent on September 26 and October 24 at Miami (OH) and Toledo respectively?,Factual,Yes,Structural,," If so, then the ",False
+6475,"Was Hasret Şükrü Gültekin born on July 2, 1993 in Turkey?",Non-Factual,No,Structural,, He is a Turkish professional football,False
+12377,"Did the person have disagreements with their party on business legislation, consumer protection, and free trade agreements?",Non-Factual,No,Real-World,," If so, how did they",False
+18767,Was the film Boxing Helena released in 1993?,Non-Factual,No,Temporal,," Yes, the film Boxing Helena",False
+15212,Does Egr3 regulate the homeostasis of B and T cells?,Factual,Yes,Domain-Specific,,"**
+Egr3 is a",False
+14485,"Have Walmart, Amazon, Kroger, Target, and Costco had any reported cases of coronavirus in the news?",Non-Factual,No,Domain-Specific,," Yes, they have. Here",False
+14073,Does a judge block the NY ban on flavored vaping products?,Factual,Yes,Domain-Specific,, A federal judge in New York,False
+2574,Is the Washington Monument between 560 ft and 575 ft tall?,Factual,Yes,Multifaceted,,"**
+A) Yes
+B",True
+8855,"Is the movie, A Bell for Adano, an adaptation of a play?",Non-Factual,No,Adversarial,," Yes, it is. The",False
+2850,Is Port of Spain a large human settlement?,Factual,Yes,Multifaceted,," Yes
+What is the population",True
+17395,"Did the Kolkata Knight Riders have an average attendance of 52,99 in the 2014 Indian Premier League season?",Factual,Yes,Temporal,," A) 52,000",False
+12297,Would Bernie Sanders' healthcare plan empower Republican governors to take away Medicaid and health insurance for low-income and middle-income working Americans?,Non-Factual,No,Real-World,," The answer is yes.
+Bern",False
+18974,"Is ""I Want to Know What Love Is"" a book?",Non-Factual,No,Temporal,," No, it's a song",True
+8840,Was the title of the Brooklyn Bridge changed in 1916 to avoid confusion with another bridge with a similar name?,Non-Factual,No,Adversarial,," No, the Brooklyn Bridge was",True
+12391,"Did Greg Abbott find, as a Supreme Court justice, that a company whose vacuum cleaners were sold door to door had no responsibility in the hiring of a salesman who raped a customer?",Factual,Yes,Real-World,," No, he did not.",False
+5845,Was Debjit Majumder rated as the worst player in the 2015 season and only played two games?,Non-Factual,No,Structural,, I think there are some errors,False
+11819,Is it true that there have been terrorist attacks on the Trumps at Mar A Lago?,Non-Factual,No,Real-World,," No, it is not true",True
+7302,"Did OneJet announce on April 24, 2015 that it would move its base of operations from Indianapolis to Pittsburgh and stop adding flights from Pittsburgh?",Non-Factual,No,Structural,," (Source: ""OneJet",False
+5338,Did Kamal Haasan earn a Best Actor award in 1983 for the film Sadma?,Non-Factual,No,Structural,," No, he did not.",True
+2867,Was Brent Mydland part of the Grateful Dead in the past?,Factual,Yes,Multifaceted,, He was a member of the,False
+5830,"Was Adam voted outcast by four contestants in the first voting of Unan1mous, an American reality program aired on the Fox Network?",Factual,Yes,Structural,, A) Yes B) No,True
